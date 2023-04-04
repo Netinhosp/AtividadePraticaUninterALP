@@ -1,4 +1,4 @@
-print("Bem vindo a Transportadora do Helí Piancó - 4135277")
+print("Bem vindo a Transportadora do Helí Piancó")
 # Declarando variáveis global
 preco_volume = 0
 multiplicador_peso = 0

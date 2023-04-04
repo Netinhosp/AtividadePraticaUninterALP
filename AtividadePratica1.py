@@ -1,4 +1,4 @@
-print("Bem vindo a Loja do Helí Piancó - 4135277")
+print("Bem vindo a Loja do Helí Piancó")
 
 # Estou imprimindo a descrição dos descontos
 print("Promoção - Show dos descontos")

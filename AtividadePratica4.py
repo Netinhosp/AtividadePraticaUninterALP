@@ -1,4 +1,4 @@
-print("Bem vindo ao Controle de Estoque da Bicicletaria do Helí Piancó - 4135277")
+print("Bem vindo ao Controle de Estoque da Bicicletaria do Helí Piancó")
 
 # Criando lista, que irá armazenar o estoque de peças
 estoque_pecas = []

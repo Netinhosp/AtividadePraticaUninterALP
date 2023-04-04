@@ -1,4 +1,4 @@
-print("Bem vindo a Lanchonete do Helí Piancó - 4135277")
+print("Bem vindo a Lanchonete do Helí Piancó")
 
 # Imprimindo o cardápio para o usuário
 print("- - - - - - - - - Cardápio - - - - - - - - - ")
